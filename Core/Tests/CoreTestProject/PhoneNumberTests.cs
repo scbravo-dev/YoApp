@@ -4,10 +4,10 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace CoreTestProject
 {
     [TestClass]
-    public class PhoneListTests
+    public class PhoneNumberTests
     {
         [TestMethod]
-        public void IsValidNumberTest()
+        public void TestMethod1()
         {
         }
     }

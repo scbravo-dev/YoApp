@@ -10,6 +10,7 @@ namespace Core.Models
             throw new System.NotImplementedException();
         }
 
+        //Test branches
         public bool IsValidNumber(string inputNumber)
         {
             bool result = true;

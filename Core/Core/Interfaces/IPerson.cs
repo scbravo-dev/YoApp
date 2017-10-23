@@ -6,5 +6,9 @@ namespace Core.Interfaces
 {
     interface IPerson
     {
+        string Name { get; set; }
+        string LastName { get; set; }
+
+        IPhoneList Phones { get; set; }
     }
 }
